@@ -1,3 +1,9 @@
+/*
+*  Author: Vina Culas
+*  File: rps.c
+*  Date Created: 3/23/21
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
